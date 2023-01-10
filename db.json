@@ -1,168 +1,18 @@
 {
-    "cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-        "year": 2019,
-        "type": "Manual",
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 2,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 3,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 4,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 5,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 6,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 7,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 8,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 9,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 10,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 11,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 12,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 13,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 14,
-        "brand": "Tata",
-        "type": "AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 15,
-        "brand": "Audi",
-        "year": 2019,
-        "type": "Manual",
-        "kms": 10000,
-        "Description": "Audi Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 16,
-        "brand": "Ford",
-        "year": 2019,
-        "type": "Automatic",
-        "kms": 10000,
-        "Description": "Ford Altroz with all original documents",
-        "Price": 500000
-      }
-    ],
-    "wishlisted_cars": [
-      {
-          "id": 5,
-          "brand": "Tata",
-          "type": "AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 800000
-        },
-        {
-          "id": 6,
-          "brand": "Tata",
-          "type": "AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 800000
-        }
-    ]
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
+  ]
+}
